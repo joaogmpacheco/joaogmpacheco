@@ -1,14 +1,14 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&reversal=true&textBg=false"/>
 </div>
+<br>
 
 
-<h1 align="center> João Gabriel Monteiro</h1>
+<h1 align="center"> João Gabriel Pacheco</h1>
 
-
+<br>
 <div align="center">
-  <img 
-    src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=984&color=F78608&center=true&vCenter=true&width=700&lines=Desenvolvedor+de+Software;T%C3%A9cnico+em+Informatica+-+CEFET%2FRJ;Estudante+de+Sistema+de+Informa%C3%A7%C3%A3o+-+CEFET%2FRJ" 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=984&color=F78608&center=true&vCenter=true&width=700&lines=Desenvolvedor+de+Software;T%C3%A9cnico+em+Informatica+-+CEFET%2FRJ;Estudante+de+Sistema+de+Informa%C3%A7%C3%A3o+-+CEFET%2FRJ" 
   />
 </div>
 
